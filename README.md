@@ -1,4 +1,4 @@
-## 1. Introducing Myself: Hey! I'm k9nine1 — a cybersecurity and OSINT enthusiast, always eager to learn what's next.
+Hey! I'm k9nine1 — a cybersecurity and OSINT enthusiast, always eager to learn what's next.
 
 ```markdown
  About Me:
