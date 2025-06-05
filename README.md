@@ -6,26 +6,9 @@ Hey, I’m k9nine1 — a cybersecurity and OSINT (Open Source Intelligence) enth
 I’m driven by curiosity and the constant need to learn. Whether it’s digging into threat intel, experimenting with tools, or exploring the latest in digital forensics and ethical hacking.
 ```
 
-
-
-## 5. GitHub Stats and Achievements
-Sharing GitHub statistics and trophies adds a visually appealing touch, showcasing my contributions and achievements.
-
-```markdown
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sathvik-shettyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-…
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sathvik-shettyy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-```
-
-
-```markdown
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sathvik-shettyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-```
-
-Feel free to take inspiration from this guide and let your GitHub profile shine. Remember, it’s not just a README; it’s your digital presence in the vast world of coding. Happy coding, everyone!
+Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
