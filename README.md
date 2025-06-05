@@ -1,6 +1,6 @@
 # k9nine1
 
-**Cybersecurity & OSINT Specialist | Security Researcher | Automation Enthusiast**
+**Cybersecurity & OSINT Specialist | Automation Enthusiast**
 
 ---
 
