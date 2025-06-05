@@ -6,7 +6,6 @@ Hey, I’m k9nine1 — a cybersecurity and OSINT (Open Source Intelligence) enth
 I’m driven by curiosity and the constant need to learn. Whether it’s digging into threat intel, experimenting with tools, or exploring the latest in digital forensics and ethical hacking.
 ```
 
-Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
