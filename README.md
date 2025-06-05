@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a dedicated cybersecurity professional focused on Open Source Intelligence (OSINT) and threat analysis. I leverage investigative techniques and automation to enhance security and uncover digital insights. Continuously learning and adapting to emerging technologies is my core approach.
+I am a dedicated cybersecurity professional focused on Open Source Intelligence (OSINT) and threat analysis. I leverage investigative techniques and automation to enhance security and uncover digital insights.
 
 ---
 
