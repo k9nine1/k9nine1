@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a dedicated cybersecurity enthusisast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.
+I am a dedicated cybersecurity enthusiast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.
 
 ---
 
