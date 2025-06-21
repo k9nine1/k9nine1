@@ -1,8 +1,8 @@
-<h3 align="left">k9nine1 | Open Source Intelligence (OSINT) Researcher | Red Team Enthusiast</h3>
+<h2 align="left">k9nine1 | Open Source Intelligence (OSINT) Researcher | Red Team Enthusiast</h2>
 
 ###
 
-<p align="left">Overview<br><br>I am a dedicated cybersecurity enthusiast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.<br>Core Competencies<br><br>    Offensive Security: Red team operations, vulnerability assessment, penetration testing.<br>    Digital Investigations: OSINT collection, analysis, and attribution.<br>    Security Automation: Tool development for intelligence gathering.<br>    Threat Intelligence: Analysis of adversarial tactics and techniques.</p>
+<h3 align="left">Overview<br><br>I am a dedicated cybersecurity enthusiast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.<br><br>Core Competencies<br><br>    Offensive Security: Red team operations, vulnerability assessment, penetration testing.<br>    Digital Investigations: OSINT collection, analysis, and attribution.<br>    Security Automation: Tool development for intelligence gathering.<br>    Threat Intelligence: Analysis of adversarial tactics and techniques.</h3>
 
 ###
 
@@ -10,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=k9nine1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=k9nine1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img align="right" height="206" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
 
 ###
 
@@ -44,18 +48,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="44" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="206" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
