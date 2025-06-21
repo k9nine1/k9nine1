@@ -40,24 +40,18 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/1285935589669208139" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="44" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
+<img align="right" height="206" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
+
+###
+
 <img src="https://raw.githubusercontent.com/k9nine1/k9nine1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
