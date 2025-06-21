@@ -1,48 +1,68 @@
-<div align="center" style="background-color: #2d2d2d; padding: 2rem; border-radius: 8px;">
+<h3 align="left">k9nine1 | Open Source Intelligence (OSINT) Researcher | Red Team Enthusiast</h3>
 
-# k9nine1 | Cybersecurity Enthusiast
+###
 
-<h3>Open Source Intelligence (OSINT) Researcher | Red Team Enthusiast</h3>
+<p align="left">Overview<br><br>I am a dedicated cybersecurity enthusiast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.<br>Core Competencies<br><br>    Offensive Security: Red team operations, vulnerability assessment, penetration testing.<br>    Digital Investigations: OSINT collection, analysis, and attribution.<br>    Security Automation: Tool development for intelligence gathering.<br>    Threat Intelligence: Analysis of adversarial tactics and techniques.</p>
 
-</div>
-
-## Overview
-
-I am a dedicated cybersecurity enthusiast focused on Open Source Intelligence (OSINT) and red teaming. I leverage investigative techniques and automation to enhance security and uncover digital insights.
-
-## Core Competencies
-
-- **Offensive Security**: Red team operations, vulnerability assessment, penetration testing.
-- **Digital Investigations**: OSINT collection, analysis, and attribution.
-- **Security Automation**: Tool development for intelligence gathering.
-- **Threat Intelligence**: Analysis of adversarial tactics and techniques.
-
-## Technical Proficiencies
-
-### Languages
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-
-### Web Technologies
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
-
-### Platforms & Tools
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)](https://git-scm.com/)
-
-## Metrics
+###
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k9nine1&show_icons=true&theme=dark&bg_color=2d2d2d&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=k9nine1&theme=dark&background=2d2d2d&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=k9nine1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=k9nine1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-## Contact
+###
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1285935589669208139)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/k9nine1/k9nine1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k9nine1/k9nine1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=k9nine1.k9nine1&"  />
+</div>
+
+###
